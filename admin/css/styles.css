@@ -1,0 +1,12 @@
+#acf-body_class {
+  display: none !important;
+}
+
+.acf-postbox {
+  width: 49%;
+  display: inline-block;
+}
+
+#acf-left-column {
+    width: 100%;
+}
